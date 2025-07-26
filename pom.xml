@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.github.mayurb</groupId>
+  <groupId>io.github.mayur2810</groupId>
   <artifactId>spark-sql-pubsub-connector</artifactId>
   <name>spark-sql-pubsub-connector</name>
   <packaging>jar</packaging>

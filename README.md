@@ -156,7 +156,7 @@ This command will:
 2. Run the integration tests against the emulator.
 3. Stop the emulator container.
 
-If you want to run all tests (unit and integration), you can also use `mvn verify`.
+If you want to run all tests (unit and integration), you can also use `mvn -Pintegration_test clean install`.
 
 ## License
 
